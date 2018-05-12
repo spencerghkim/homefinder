@@ -1,0 +1,189 @@
+[
+{
+Address: "Seattle",
+Longitude: "-122.393606",
+Latitude: "47.542055",
+Name: "West Seattle water view at the Tracy Ann",
+PartitionKey: "apartment",
+RowKey: "47.542055-122.393606",
+Timestamp: "2017-07-25T22:39:35.7003239+00:00",
+"DistanceToClosestConnector": "1.872191",
+"DistanceToClosestGym": "6.673527"
+},
+{
+Address: "3701 S. Hudson St., Seattle, WA 98118",
+Longitude: "-122.28812",
+Latitude: "47.556896",
+Name: "Green Urban Living @ Greenhouse Apartments! Prelease your home NOW *",
+PartitionKey: "apartment",
+RowKey: "47.556896-122.28812",
+Timestamp: "2017-07-25T22:39:34.6185685+00:00",
+"DistanceToClosestConnector": "0.836987",
+"DistanceToClosestGym": "4.385638"
+},
+{
+Address: "165 17th Avenue, Seattle, WA 98122",
+Longitude: "-122.310136",
+Latitude: "47.602982",
+Name: "City views , Wood style flooring, Washer & dryer in every home",
+PartitionKey: "apartment",
+RowKey: "47.602982-122.310136",
+Timestamp: "2017-07-25T22:39:34.2332991+00:00",
+"DistanceToClosestConnector": "0.403891",
+"DistanceToClosestGym": "1.321035"
+},
+{
+Address: "first hill",
+Longitude: "-122.328949",
+Latitude: "47.608934",
+Name: "City Living and the Best Price! Studio Home Waiting for YOU!",
+PartitionKey: "apartment",
+RowKey: "47.608934-122.328949",
+Timestamp: "2017-07-25T22:39:35.4351383+00:00",
+"DistanceToClosestConnector": "0.543078",
+"DistanceToClosestGym": "0.392707"
+},
+{
+Address: "Capitol Hill",
+Longitude: "-122.315168",
+Latitude: "47.616116",
+Name: "Wood Floors, Quiet, Quartz, Easy to Downtown, Lite Rail, 1 Mo Free",
+PartitionKey: "apartment",
+RowKey: "47.616116-122.315168",
+Timestamp: "2017-07-25T22:39:33.5898515+00:00",
+"DistanceToClosestConnector": "0.48467",
+"DistanceToClosestGym": "1.222237"
+},
+{
+Address: "Capitol Hill",
+Longitude: "-122.315254",
+Latitude: "47.616144",
+Name: "Wood floors, Quiet, Quartz, Easy to Downtown, Lite Rail, 1 Mo free",
+PartitionKey: "apartment",
+RowKey: "47.616144-122.315254",
+Timestamp: "2017-07-25T22:39:34.9087712+00:00",
+"DistanceToClosestConnector": "0.482805",
+"DistanceToClosestGym": "1.224101"
+},
+{
+Address: "Seattle",
+Longitude: "-122.330437",
+Latitude: "47.62041",
+Name: "Beautiful View From This One Bedroom Plus Den",
+PartitionKey: "apartment",
+RowKey: "47.62041-122.330437",
+Timestamp: "2017-07-25T22:39:34.4924801+00:00",
+"DistanceToClosestConnector": "0.67543",
+"DistanceToClosestGym": "1.310472"
+},
+{
+Address: "South Lake Union",
+Longitude: "-122.331442",
+Latitude: "47.62313",
+Name: "Think tank conference room & theater, Two lush courtyards, Solarium",
+PartitionKey: "apartment",
+RowKey: "47.62313-122.331442",
+Timestamp: "2017-07-25T22:39:33.4667651+00:00",
+"DistanceToClosestConnector": "0.911552",
+"DistanceToClosestGym": "1.546593"
+},
+{
+Address: "Seattle",
+Longitude: "-122.344938",
+Latitude: "47.625593",
+Name: "Urban 1 Bedroom 1 Bath For This Rate- Apply Today!",
+PartitionKey: "apartment",
+RowKey: "47.625593-122.344938",
+Timestamp: "2017-07-25T22:39:34.3633908+00:00",
+"DistanceToClosestConnector": "0.804676",
+"DistanceToClosestGym": "1.742946"
+},
+{
+Address: "2010 Franklin Ave. E., Eastlake",
+Longitude: "-122.324637",
+Latitude: "47.63832",
+Name: "Eastlake 2 br 2 ba Apt.",
+PartitionKey: "apartment",
+RowKey: "47.63832-122.324637",
+Timestamp: "2017-07-25T22:39:35.0428648+00:00",
+"DistanceToClosestConnector": "1.764694",
+"DistanceToClosestGym": "2.072273"
+},
+{
+Address: "Queen Anne",
+Longitude: "-122.352967",
+Latitude: "47.63832",
+Name: "Rare top floor corner unit on top of Queen Anne",
+PartitionKey: "apartment",
+RowKey: "47.63832-122.352967",
+Timestamp: "2017-07-25T22:39:34.1042089+00:00",
+"DistanceToClosestConnector": "0.268432",
+"DistanceToClosestGym": "2.853337"
+},
+{
+Address: "Seattle, Wa",
+Longitude: "-122.34242",
+Latitude: "47.65092",
+Name: "Wanna walk to everywhere? You have to Live Here First!",
+PartitionKey: "apartment",
+RowKey: "47.65092-122.34242",
+Timestamp: "2017-07-25T22:39:33.316659+00:00",
+"DistanceToClosestConnector": "0.14975",
+"DistanceToClosestGym": "2.066059"
+},
+{
+Address: "5240 University Way NE Seattle, WA",
+Longitude: "-122.312937",
+Latitude: "47.666515",
+Name: "Traditional Studio. Pet friendly. Come tour today!!",
+PartitionKey: "apartment",
+RowKey: "47.666515-122.312937",
+Timestamp: "2017-07-25T22:39:35.5682321+00:00",
+"DistanceToClosestConnector": "1.062545",
+"DistanceToClosestGym": "0.186411"
+},
+{
+Address: "1731 NW 57th Street, Seattle, WA 98107",
+Longitude: "-122.379151",
+Latitude: "47.67012",
+Name: "1 Month Free Rent!! Top Floor Studio!!",
+PartitionKey: "apartment",
+RowKey: "47.67012-122.379151",
+Timestamp: "2017-07-25T22:39:33.9731174+00:00",
+"DistanceToClosestConnector": "0.255384",
+"DistanceToClosestGym": "3.247286"
+},
+{
+Address: "9732 45th Ave. N.E.",
+Longitude: "-122.2968",
+Latitude: "47.6849",
+Name: "Seattle 3 br 2 ba house",
+PartitionKey: "apartment",
+RowKey: "47.6849-122.2968",
+Timestamp: "2017-07-25T22:39:35.1689529+00:00",
+"DistanceToClosestConnector": "0.595274",
+"DistanceToClosestGym": "2.172314"
+},
+{
+Address: "11745 15th Ave. N.E., Northgate",
+Longitude: "-122.313023",
+Latitude: "47.714959",
+Name: "Northgate/ Pinehurst 1 br apt.",
+PartitionKey: "apartment",
+RowKey: "47.714959-122.313023",
+Timestamp: "2017-07-25T22:39:34.7786799+00:00",
+"DistanceToClosestConnector": "2.906153",
+"DistanceToClosestGym": "3.5617"
+},
+{
+Address: "16041 27th Ave. N.E.",
+Longitude: "-122.3003",
+Latitude: "47.7559",
+Name: "Shoreline 2 br house",
+PartitionKey: "apartment",
+RowKey: "47.7559-122.3003",
+Timestamp: "2017-07-25T22:39:35.3000448+00:00",
+"DistanceToClosestConnector": "5.750169",
+"DistanceToClosestGym": "7.227168"
+}
+]

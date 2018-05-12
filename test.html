@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<script src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0" type="text/javascript" charset="UTF-8"></script>
+		<!-- <script src="http://www.bing.com/api/maps/mapcontrol?callback=BingMap" async defer></script> -->
+		<script src="jquery-3.2.1.min.js"></script>
+		<script src="BingMap.js"></script>
+		<script src="test.js"></script>
+	</head>
+	<body>
+		<div id="divMap" style="position:relative;height:600px;border:1px solid blue;"></div>
+		<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+		<form id="filters">
+			<input type="button" name="check1" onclick="hideInfoBoxes()"> Hide Infoboxes
+			<input type="button" name="check1" onclick="toggleAptLayer()"> Toggle Apartments
+			<input type="button" name="check1" onclick="toggleConLayer()"> Toggle Connectors
+			<input type="button" name="check1" onclick="toggleSTLayer()"> Toggle Sound Transit
+		</form>
+	</body>
+</html>
+

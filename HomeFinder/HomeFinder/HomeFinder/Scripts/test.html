@@ -1,0 +1,63 @@
+
+<head>
+	<script src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0" type="text/javascript" charset="UTF-8"></script>
+	<!-- <script src="http://www.bing.com/api/maps/mapcontrol?callback=BingMap" async defer></script> -->
+	<script src="jquery-3.2.1.min.js"></script>
+	<script src="BingMap.js"></script>
+	<script src="test.js"></script>
+</head>
+<body>
+<div class="top-bar">
+	<div style="text-align:center"><h1>Home Finder</h1></div>
+	<div style="text-align:center"><h5>Use the filters to narrow down your results.</h5></div>
+</div>
+
+<div class="row">
+    <!-- <div class="col-md-9 map-container">
+		<div id="divMap" class="map-box"></div>
+	</div> -->
+	<div id="divMap" style="position:relative;height:600px;border:1px solid blue;"></div>
+    <div class="col-md-3 filters-container">
+		<form id="filters-form" class="form-inline filters-box" onsubmit="return submitFilterForm()">
+			<h4 class="filter-title">Show on map</h4>
+			<div class="checkbox filters-element">
+				<label>
+					<input name="show-connectors" type="checkbox"> Connector stops
+				</label>
+			</div>
+			<div class="checkbox filters-element">
+				<label>
+					<input name="show-gyms" type="checkbox"> Gyms
+				</label>
+			</div>
+			<div class="checkbox filters-element">
+				<label>
+					<input name="show-restaurants" type="checkbox"> Restaurants with prime discount
+				</label>
+			</div>
+			<h4 class="filter-title">Walking distance to</h4>
+			<div class="form-group filters-element">
+				<label>Closest Connector Stop (mi)</label>
+				<input id="distance-connectors" name="distance-connectors" type="number" class="form-control" value="-1" placeholder="-1">
+			</div>
+			<div class="form-group filters-element">
+				<label>Closest Gym (mi)</label>
+				<input id="distance-gyms" name="distance-gyms" type="number" class="form-control" value="-1" placeholder="-1">
+			</div>
+			<div class="form-group filters-element">
+				<label>Closest Restaurant (mi)</label>
+				<input name="distance-restaurants" type="number" class="form-control" value="-1" placeholder="-1">
+			</div>
+			<button type="submit" class="btn btn-default filters-element" style="margin-top:60px">Submit</button>
+		</form>
+        <div id="result-count"></div>
+        <div id="result"></div>
+	</div>
+	<form id="filters">
+		<input type="button" name="check1" onclick="hideInfoBox()"> Hide Infobox
+		<input type="button" name="check1" onclick="toggleAptLayer()"> Toggle Apartments
+		<input type="button" name="check1" onclick="toggleConLayer()"> Toggle Connectors
+		<input type="button" name="check1" onclick="toggleSTLayer()"> Toggle Sound Transit
+	</form>
+</div>
+</body>

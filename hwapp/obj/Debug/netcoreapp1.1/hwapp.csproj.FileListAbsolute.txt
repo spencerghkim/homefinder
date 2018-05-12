@@ -1,0 +1,8 @@
+/Users/spencer/connector/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/spencer/connector/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/spencer/connector/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/spencer/connector/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/spencer/connector/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/spencer/connector/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/spencer/connector/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/spencer/connector/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb

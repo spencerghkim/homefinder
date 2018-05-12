@@ -1,0 +1,36 @@
+﻿.top-bar {
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+.map-container, .filters-container {
+	min-height: 90vh;
+	display:flex;
+}
+
+.map-box, .filters-box {
+	border: 1px solid black;
+	flex-grow:1;
+}
+
+.filters-box {
+	padding:15px;
+	padding-top: 20px;
+	padding-bottom:20px;
+	display: flex;
+	flex-direction:column;
+	align-content:space-around;
+}
+.filter-title {
+	color:indianred;
+	margin-top: 40px;
+	font-weight: 600;
+	text-align:center;
+}
+.filters-element {
+	margin-top: 20px;
+}
+
+.container {
+    max-width: 90%;
+}
